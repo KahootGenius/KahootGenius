@@ -17,7 +17,6 @@
 - ⚔️ ACG enjoyer: Honkai: Star Rail · Genshin Impact · Arknights
 - 🧮 Wrote a [damage calculator](https://github.com/KahootGenius/Honkai-Starrail_Damage_Calculator) for HSR theorycrafting
 - 👻 Yes, the profile theme is Hu Tao. No, I will not apologize
-- 📫 Reach me: `Snookiejmm@musician.org` <!-- edit or remove -->
 
 ## 🛠️ Tools I use
 
